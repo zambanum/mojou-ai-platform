@@ -1,0 +1,41 @@
+{
+  "app_name": "Mojou AI",
+  "tagline_main": "La seule application pour petites entreprises dont vous aurez jamais besoin",
+  "topbar_home": "Accueil",
+  "topbar_apps": "Applications",
+  "topbar_settings": "Paramètres",
+  "topbar_teamtalk": "TeamTalk",
+  "topbar_logout": "Se déconnecter",
+
+  "kpi_revenue": "Revenus",
+  "kpi_expenses": "Dépenses",
+  "kpi_profit": "Résultat net",
+  "kpi_cashflow": "Flux de trésorerie",
+  "kpi_invoices": "Factures",
+  "kpi_overdue": "Factures en retard",
+
+  "action_create": "Créer",
+  "action_edit": "Modifier",
+  "action_delete": "Supprimer",
+  "action_view": "Afficher",
+  "action_export": "Exporter",
+  "action_export_pdf": "Exporter en PDF",
+  "action_export_excel": "Exporter en Excel",
+  "action_filter": "Filtrer",
+  "action_clear_filters": "Effacer les filtres",
+
+  "quickmenu_sales": "Ventes & CRM",
+  "quickmenu_invoicing": "Facturation & devis",
+  "quickmenu_projects": "Projets & tâches",
+  "quickmenu_payroll": "Ressources humaines & paie",
+  "quickmenu_attendance": "Temps & présence",
+  "quickmenu_inventory": "Stocks & achats",
+  "quickmenu_pos": "Point de vente & vitrine",
+  "quickmenu_accounting": "Comptabilité",
+  "quickmenu_einvoice": "E-facturation (ZATCA/TVA)",
+
+  "status_active": "Actif",
+  "status_inactive": "Inactif",
+  "status_draft": "Brouillon",
+  "status_archived": "Archivé"
+}

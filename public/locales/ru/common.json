@@ -1,0 +1,41 @@
+{
+  "app_name": "Mojou AI",
+  "tagline_main": "Единственное приложение для малого бизнеса, которое вам когда-либо понадобится",
+  "topbar_home": "Главная",
+  "topbar_apps": "Приложения",
+  "topbar_settings": "Настройки",
+  "topbar_teamtalk": "TeamTalk",
+  "topbar_logout": "Выйти",
+
+  "kpi_revenue": "Выручка",
+  "kpi_expenses": "Расходы",
+  "kpi_profit": "Чистая прибыль",
+  "kpi_cashflow": "Денежный поток",
+  "kpi_invoices": "Счета",
+  "kpi_overdue": "Просроченные счета",
+
+  "action_create": "Создать",
+  "action_edit": "Редактировать",
+  "action_delete": "Удалить",
+  "action_view": "Просмотр",
+  "action_export": "Экспорт",
+  "action_export_pdf": "Экспортировать в PDF",
+  "action_export_excel": "Экспортировать в Excel",
+  "action_filter": "Фильтровать",
+  "action_clear_filters": "Сбросить фильтры",
+
+  "quickmenu_sales": "Продажи и CRM",
+  "quickmenu_invoicing": "Выставление счетов и предложения",
+  "quickmenu_projects": "Проекты и задачи",
+  "quickmenu_payroll": "Персонал и зарплата",
+  "quickmenu_attendance": "Учёт времени и посещаемости",
+  "quickmenu_inventory": "Склад и закупки",
+  "quickmenu_pos": "POS и торговый зал",
+  "quickmenu_accounting": "Бухгалтерия",
+  "quickmenu_einvoice": "Электронные счета (ZATCA/НДС)",
+
+  "status_active": "Активный",
+  "status_inactive": "Неактивный",
+  "status_draft": "Черновик",
+  "status_archived": "В архиве"
+}

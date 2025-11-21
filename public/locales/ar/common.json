@@ -1,0 +1,41 @@
+{
+  "app_name": "موجو AI",
+  "tagline_main": "تطبيق الأعمال الصغيرة الوحيد الذي ستحتاج إليه",
+  "topbar_home": "الرئيسية",
+  "topbar_apps": "التطبيقات",
+  "topbar_settings": "الإعدادات",
+  "topbar_teamtalk": "TeamTalk",
+  "topbar_logout": "تسجيل الخروج",
+
+  "kpi_revenue": "الإيرادات",
+  "kpi_expenses": "المصروفات",
+  "kpi_profit": "صافي الربح",
+  "kpi_cashflow": "التدفق النقدي",
+  "kpi_invoices": "الفواتير",
+  "kpi_overdue": "الفواتير المتأخرة",
+
+  "action_create": "إنشاء",
+  "action_edit": "تعديل",
+  "action_delete": "حذف",
+  "action_view": "عرض",
+  "action_export": "تصدير",
+  "action_export_pdf": "تصدير إلى PDF",
+  "action_export_excel": "تصدير إلى Excel",
+  "action_filter": "تصفية",
+  "action_clear_filters": "مسح عوامل التصفية",
+
+  "quickmenu_sales": "المبيعات وإدارة العملاء",
+  "quickmenu_invoicing": "الفوترة والعروض",
+  "quickmenu_projects": "المشاريع والمهام",
+  "quickmenu_payroll": "الأفراد والرواتب",
+  "quickmenu_attendance": "الحضور والانصراف",
+  "quickmenu_inventory": "المخزون والمشتريات",
+  "quickmenu_pos": "نقطة البيع والواجهات",
+  "quickmenu_accounting": "الحسابات",
+  "quickmenu_einvoice": "الفوترة الإلكترونية (زاتكا/ضريبة القيمة المضافة)",
+
+  "status_active": "نشط",
+  "status_inactive": "غير نشط",
+  "status_draft": "مسودة",
+  "status_archived": "مؤرشف"
+}

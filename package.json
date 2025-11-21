@@ -4,22 +4,16 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-  "dev": "vite",
-  "build": "vite build",
-  "build:dev": "vite build --mode development",
-  "lint": "eslint .",
-  "preview": "vite preview",
+  "dev": "next dev",
+  "build": "next build",
+  "start": "next start",
+  "lint": "next lint",
+
+  "i18n:skeleton": "node scripts/i18n-generate-skeletons.mjs",
+  "i18n:check": "ts-node scripts/i18n-check.ts",
+  "i18n:coverage": "node scripts/i18n-coverage-report.mjs",
   "i18n:audit": "node scripts/i18n-audit.mjs",
-  "i18n:sync": "node scripts/i18n-sync-keys.mjs",
-  "i18n:skeleton": "node scripts/i18n-generate-skeletons.mjs" 
-  "i18n:audit": "node scripts/i18n-audit.mjs",
-  "i18n:sync": "node scripts/i18n-sync-keys.mjs",
-  "i18n:skeleton": "node scripts/i18n-generate-skeletons.mjs"
-},
-    "i18n:skeleton": "node scripts/i18n-generate-skeletons.mjs",
-    "i18n:sync": "node scripts/i18n-sync-keys.mjs",
-    "i18n:audit": "node scripts/i18n-audit.mjs",
-    "i18n:coverage": "node scripts/i18n-coverage-report.mjs"
+  "i18n:sync-keys": "node scripts/i18n-sync-keys.mjs"
   },
   "dependencies": {
     "@axe-core/playwright": "^4.10.2",
@@ -79,13 +73,14 @@
     "jspdf-autotable": "^5.0.2",
     "lucide-react": "^0.462.0",
     "msw": "^2.10.4",
+    "next": "^16.0.3",
     "next-themes": "^0.3.0",
     "nodemailer": "^7.0.6",
     "qrcode": "^1.5.4",
-    "react": "^18.2.0",
+    "react": "^18.3.1",
     "react-beautiful-dnd": "^13.1.1",
     "react-day-picker": "^8.10.1",
-    "react-dom": "^18.2.0",
+    "react-dom": "^18.3.1",
     "react-helmet-async": "^2.0.5",
     "react-hook-form": "^7.61.1",
     "react-i18next": "^13.5.0",
@@ -99,7 +94,6 @@
     "tsx": "^4.20.5",
     "vaul": "^0.9.9",
     "vitest": "^3.2.4",
-    "xlsx": "^0.18.5",
     "zod": "^3.25.76"
   },
   "devDependencies": {

@@ -1,0 +1,41 @@
+{
+  "app_name": "Mojou AI",
+  "tagline_main": "The only small business app you will ever need",
+  "topbar_home": "Home",
+  "topbar_apps": "Apps",
+  "topbar_settings": "Settings",
+  "topbar_teamtalk": "TeamTalk",
+  "topbar_logout": "Sign out",
+
+  "kpi_revenue": "Revenue",
+  "kpi_expenses": "Expenses",
+  "kpi_profit": "Net profit",
+  "kpi_cashflow": "Cash flow",
+  "kpi_invoices": "Invoices",
+  "kpi_overdue": "Overdue invoices",
+
+  "action_create": "Create",
+  "action_edit": "Edit",
+  "action_delete": "Delete",
+  "action_view": "View",
+  "action_export": "Export",
+  "action_export_pdf": "Export as PDF",
+  "action_export_excel": "Export as Excel",
+  "action_filter": "Filter",
+  "action_clear_filters": "Clear filters",
+
+  "quickmenu_sales": "Sales & CRM",
+  "quickmenu_invoicing": "Invoicing & Quotes",
+  "quickmenu_projects": "Projects & Tasks",
+  "quickmenu_payroll": "People & Payroll",
+  "quickmenu_attendance": "Time & Attendance",
+  "quickmenu_inventory": "Inventory & Purchasing",
+  "quickmenu_pos": "POS & Shopfront",
+  "quickmenu_accounting": "Accounting",
+  "quickmenu_einvoice": "e-Invoicing (ZATCA/VAT)",
+
+  "status_active": "Active",
+  "status_inactive": "Inactive",
+  "status_draft": "Draft",
+  "status_archived": "Archived"
+}

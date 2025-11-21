@@ -1,0 +1,41 @@
+{
+  "app_name": "Mojou AI",
+  "tagline_main": "Die einzige App für kleine Unternehmen, die Sie jemals brauchen werden",
+  "topbar_home": "Startseite",
+  "topbar_apps": "Apps",
+  "topbar_settings": "Einstellungen",
+  "topbar_teamtalk": "TeamTalk",
+  "topbar_logout": "Abmelden",
+
+  "kpi_revenue": "Umsatz",
+  "kpi_expenses": "Ausgaben",
+  "kpi_profit": "Nettogewinn",
+  "kpi_cashflow": "Cashflow",
+  "kpi_invoices": "Rechnungen",
+  "kpi_overdue": "Überfällige Rechnungen",
+
+  "action_create": "Erstellen",
+  "action_edit": "Bearbeiten",
+  "action_delete": "Löschen",
+  "action_view": "Anzeigen",
+  "action_export": "Exportieren",
+  "action_export_pdf": "Als PDF exportieren",
+  "action_export_excel": "Als Excel exportieren",
+  "action_filter": "Filtern",
+  "action_clear_filters": "Filter zurücksetzen",
+
+  "quickmenu_sales": "Vertrieb & CRM",
+  "quickmenu_invoicing": "Rechnungen & Angebote",
+  "quickmenu_projects": "Projekte & Aufgaben",
+  "quickmenu_payroll": "Personal & Lohnabrechnung",
+  "quickmenu_attendance": "Zeit & Anwesenheit",
+  "quickmenu_inventory": "Bestand & Einkauf",
+  "quickmenu_pos": "Kasse & Shopfront",
+  "quickmenu_accounting": "Buchhaltung",
+  "quickmenu_einvoice": "E-Rechnung (ZATCA/Mehrwertsteuer)",
+
+  "status_active": "Aktiv",
+  "status_inactive": "Inaktiv",
+  "status_draft": "Entwurf",
+  "status_archived": "Archiviert"
+}
